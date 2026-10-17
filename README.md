@@ -52,7 +52,6 @@ games.jsonl.gz
 - **`opentafl_games.zip`** — 3,000 numbered `.otn` files containing OpenTafl-style game records, moves, capture annotations, and metadata. These are a convenience export; compatibility with every OpenTafl reader has **not** yet been independently confirmed.
 - **`index.csv`** — `game_id`, `filename`, `winner`, `termination`, and `move_count`, for browsing and filtering.
 
-Individual `.otn` files may also be included in an `otn/` folder, depending on how the GitHub release is packaged.
 
 ## JSONL format
 
