@@ -1,0 +1,34 @@
+CC0 1.0 Universal — Public Domain Dedication
+SPDX-License-Identifier: CC0-1.0
+
+Copenhagen Hnefatafl Tactical Self-Play Dataset (2026)
+By John Cutting
+
+To the extent possible under law, John Cutting dedicates the original game
+recordings, dataset-specific metadata and compilation, original documentation,
+and other original content in this data-only repository to the public domain
+worldwide, waiving all copyright and related or neighboring rights in those
+materials that he holds.
+
+Anyone may copy, use, modify, redistribute, remix, analyze, or commercially
+exploit the dedicated materials for any purpose, without asking permission,
+paying a fee, or providing attribution.
+
+The dedication is made under Creative Commons CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+Full legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
+
+THE MATERIALS ARE PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, TO THE
+FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+
+SCOPE AND THIRD-PARTY MATERIALS
+
+This dedication covers only rights that John Cutting owns or is authorized to
+waive. It does not relicense TaflZero, its source code, binaries, trained
+models, or any other third-party software or materials. The upstream TaflZero
+project is distributed separately under GNU GPL version 3:
+https://github.com/sovelin/taflzero
+
+This notice summarizes and applies CC0 1.0 by reference. For GitHub's standard
+full-text CC0 licensing practice, the canonical legal code linked above may
+also be saved verbatim as COPYING or LICENSE in this repository.
